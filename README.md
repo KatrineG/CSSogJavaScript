@@ -1,2 +1,4 @@
-# CSSogJavaScript
-Undervisning 1. Semester 
+# Responsiv CSS og introduktion til JavaScript
+
+Her er filerne til Værktøjskasse 3.
+
